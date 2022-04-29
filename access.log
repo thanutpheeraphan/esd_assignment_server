@@ -1,0 +1,6 @@
+::1 - - [28/Apr/2022:23:47:27 +0000] "GET /route/getdata HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
+::1 - - [28/Apr/2022:23:47:34 +0000] "POST /route/adduser HTTP/1.1" 500 12 "http://localhost:3001/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
+::1 - - [28/Apr/2022:23:47:35 +0000] "GET /route/getdata HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
+::1 - - [28/Apr/2022:23:47:59 +0000] "POST /route/adduser HTTP/1.1" - - "http://localhost:3001/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
+::1 - - [28/Apr/2022:23:48:00 +0000] "GET /route/getdata HTTP/1.1" 200 54 "http://localhost:3001/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
+::1 - - [28/Apr/2022:23:55:38 +0000] "GET /route/getdata HTTP/1.1" 200 54 "-" "PostmanRuntime/7.29.0"

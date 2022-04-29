@@ -1,0 +1,5 @@
+CREATE TABLE data(
+	name VARCHAR,
+	id INTEGER
+
+);
